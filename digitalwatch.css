@@ -1,0 +1,14 @@
+.card ,.card-body{
+    border-radius: 10px;
+    box-shadow: inset;
+}
+body {
+    background-color: #f0f0f0;
+}
+.card {
+    margin: 20px;
+}
+.card ,.card-body{
+    border-radius: 10px;
+    box-shadow: inset;
+}
